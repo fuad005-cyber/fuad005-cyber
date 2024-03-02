@@ -1,4 +1,4 @@
-![MasterHead](https://files.realpython.com/media/HTML-And-CSS-For-Python-Developers_Watermarked.971e946a417f.jpg)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 <h1 align="center">Hi 👋, I'm Fuad</h1>
