@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad005-cyber&" alt="fuad005-cyber" /></p>
 
 
-![snake gif](https://github.com/fuad005-cyber/fuad005-cyber/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fuad005-cyber/fuad005-cyber/blob/output/github-contribution-grid-snake.gif)
