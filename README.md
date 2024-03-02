@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuad005-cyber&show_icons=true&locale=en" alt="fuad005-cyber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad005-cyber&" alt="fuad005-cyber" /></p>
+
+
+![snake gif](https://github.com/fuad005-cyber/fuad005-cyber/blob/output/github-contribution-grid-snake.svg)
