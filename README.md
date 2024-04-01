@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/ElcinQuliyev/ElcinQuliyev/blob/main/Iconfile.svg)
 
 
-<h1 align="center">Hi 👋, Im Fuad</h1>
+<h1 align="center">Hi 👋, I'm Fuad</h1>
 <h3 align="center">A FrontEnd developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuad005-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="fuad005-cyber" /> </p>
